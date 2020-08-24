@@ -1,0 +1,457 @@
+{
+    "hours": [
+        {
+            "swellDirection": {
+                "noaa": 55.75
+            },
+            "swellHeight": {
+                "noaa": 0.06
+            },
+            "swellPeriod": {
+                "noaa": 2.08
+            },
+            "time": "2020-08-14T00:00:00+00:00",
+            "waveDirection": {
+                "noaa": 153.85
+            },
+            "waveHeight": {
+                "noaa": 0.23
+            },
+            "windDirection": {
+                "noaa": 169.77
+            },
+            "windSpeed": {
+                "noaa": 2.99
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 55.93
+            },
+            "swellHeight": {
+                "noaa": 0.06
+            },
+            "swellPeriod": {
+                "noaa": 2.14
+            },
+            "time": "2020-08-14T01:00:00+00:00",
+            "waveDirection": {
+                "noaa": 164.84
+            },
+            "waveHeight": {
+                "noaa": 0.24
+            },
+            "windDirection": {
+                "noaa": 177.72
+            },
+            "windSpeed": {
+                "noaa": 2.93
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 56.12
+            },
+            "swellHeight": {
+                "noaa": 0.06
+            },
+            "swellPeriod": {
+                "noaa": 2.2
+            },
+            "time": "2020-08-14T02:00:00+00:00",
+            "waveDirection": {
+                "noaa": 175.83
+            },
+            "waveHeight": {
+                "noaa": 0.25
+            },
+            "windDirection": {
+                "noaa": 185.68
+            },
+            "windSpeed": {
+                "noaa": 2.88
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 56.3
+            },
+            "swellHeight": {
+                "noaa": 0.06
+            },
+            "swellPeriod": {
+                "noaa": 2.26
+            },
+            "time": "2020-08-14T03:00:00+00:00",
+            "waveDirection": {
+                "noaa": 186.82
+            },
+            "waveHeight": {
+                "noaa": 0.26
+            },
+            "windDirection": {
+                "noaa": 193.63
+            },
+            "windSpeed": {
+                "noaa": 2.82
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 56.37
+            },
+            "swellHeight": {
+                "noaa": 0.06
+            },
+            "swellPeriod": {
+                "noaa": 2.36
+            },
+            "time": "2020-08-14T04:00:00+00:00",
+            "waveDirection": {
+                "noaa": 188.98
+            },
+            "waveHeight": {
+                "noaa": 0.26
+            },
+            "windDirection": {
+                "noaa": 202.42
+            },
+            "windSpeed": {
+                "noaa": 2.91
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 56.44
+            },
+            "swellHeight": {
+                "noaa": 0.06
+            },
+            "swellPeriod": {
+                "noaa": 2.45
+            },
+            "time": "2020-08-14T05:00:00+00:00",
+            "waveDirection": {
+                "noaa": 191.14
+            },
+            "waveHeight": {
+                "noaa": 0.26
+            },
+            "windDirection": {
+                "noaa": 211.22
+            },
+            "windSpeed": {
+                "noaa": 3.01
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 56.51
+            },
+            "swellHeight": {
+                "noaa": 0.06
+            },
+            "swellPeriod": {
+                "noaa": 2.55
+            },
+            "time": "2020-08-14T06:00:00+00:00",
+            "waveDirection": {
+                "noaa": 193.3
+            },
+            "waveHeight": {
+                "noaa": 0.26
+            },
+            "windDirection": {
+                "noaa": 220.01
+            },
+            "windSpeed": {
+                "noaa": 3.1
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 101.16
+            },
+            "swellHeight": {
+                "noaa": 0.12
+            },
+            "swellPeriod": {
+                "noaa": 2.72
+            },
+            "time": "2020-08-14T07:00:00+00:00",
+            "waveDirection": {
+                "noaa": 192.45
+            },
+            "waveHeight": {
+                "noaa": 0.25
+            },
+            "windDirection": {
+                "noaa": 218.24
+            },
+            "windSpeed": {
+                "noaa": 3.08
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 145.82
+            },
+            "swellHeight": {
+                "noaa": 0.17
+            },
+            "swellPeriod": {
+                "noaa": 2.88
+            },
+            "time": "2020-08-14T08:00:00+00:00",
+            "waveDirection": {
+                "noaa": 191.61
+            },
+            "waveHeight": {
+                "noaa": 0.25
+            },
+            "windDirection": {
+                "noaa": 216.46
+            },
+            "windSpeed": {
+                "noaa": 3.07
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 190.47
+            },
+            "swellHeight": {
+                "noaa": 0.23
+            },
+            "swellPeriod": {
+                "noaa": 3.05
+            },
+            "time": "2020-08-14T09:00:00+00:00",
+            "waveDirection": {
+                "noaa": 190.76
+            },
+            "waveHeight": {
+                "noaa": 0.24
+            },
+            "windDirection": {
+                "noaa": 214.69
+            },
+            "windSpeed": {
+                "noaa": 3.05
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 147.76
+            },
+            "swellHeight": {
+                "noaa": 0.19
+            },
+            "swellPeriod": {
+                "noaa": 3.52
+            },
+            "time": "2020-08-14T10:00:00+00:00",
+            "waveDirection": {
+                "noaa": 188.64
+            },
+            "waveHeight": {
+                "noaa": 0.25
+            },
+            "windDirection": {
+                "noaa": 210.87
+            },
+            "windSpeed": {
+                "noaa": 3.62
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 105.05
+            },
+            "swellHeight": {
+                "noaa": 0.15
+            },
+            "swellPeriod": {
+                "noaa": 3.98
+            },
+            "time": "2020-08-14T11:00:00+00:00",
+            "waveDirection": {
+                "noaa": 186.51
+            },
+            "waveHeight": {
+                "noaa": 0.27
+            },
+            "windDirection": {
+                "noaa": 207.05
+            },
+            "windSpeed": {
+                "noaa": 4.2
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 62.34
+            },
+            "swellHeight": {
+                "noaa": 0.11
+            },
+            "swellPeriod": {
+                "noaa": 4.45
+            },
+            "time": "2020-08-14T12:00:00+00:00",
+            "waveDirection": {
+                "noaa": 184.39
+            },
+            "waveHeight": {
+                "noaa": 0.28
+            },
+            "windDirection": {
+                "noaa": 203.23
+            },
+            "windSpeed": {
+                "noaa": 4.77
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 62.21
+            },
+            "swellHeight": {
+                "noaa": 0.12
+            },
+            "swellPeriod": {
+                "noaa": 4.45
+            },
+            "time": "2020-08-14T13:00:00+00:00",
+            "waveDirection": {
+                "noaa": 187.15
+            },
+            "waveHeight": {
+                "noaa": 0.37
+            },
+            "windDirection": {
+                "noaa": 203.55
+            },
+            "windSpeed": {
+                "noaa": 4.95
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 62.08
+            },
+            "swellHeight": {
+                "noaa": 0.12
+            },
+            "swellPeriod": {
+                "noaa": 4.44
+            },
+            "time": "2020-08-14T14:00:00+00:00",
+            "waveDirection": {
+                "noaa": 189.9
+            },
+            "waveHeight": {
+                "noaa": 0.45
+            },
+            "windDirection": {
+                "noaa": 203.87
+            },
+            "windSpeed": {
+                "noaa": 5.13
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 61.95
+            },
+            "swellHeight": {
+                "noaa": 0.13
+            },
+            "swellPeriod": {
+                "noaa": 4.44
+            },
+            "time": "2020-08-14T15:00:00+00:00",
+            "waveDirection": {
+                "noaa": 192.66
+            },
+            "waveHeight": {
+                "noaa": 0.54
+            },
+            "windDirection": {
+                "noaa": 204.19
+            },
+            "windSpeed": {
+                "noaa": 5.31
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 61.66
+            },
+            "swellHeight": {
+                "noaa": 0.13
+            },
+            "swellPeriod": {
+                "noaa": 4.42
+            },
+            "time": "2020-08-14T16:00:00+00:00",
+            "waveDirection": {
+                "noaa": 194.67
+            },
+            "waveHeight": {
+                "noaa": 0.6
+            },
+            "windDirection": {
+                "noaa": 211.69
+            },
+            "windSpeed": {
+                "noaa": 4.87
+            }
+        },
+        {
+            "swellDirection": {
+                "noaa": 61.37
+            },
+            "swellHeight": {
+                "noaa": 0.12
+            },
+            "swellPeriod": {
+                "noaa": 4.39
+            },
+            "time": "2020-08-14T17:00:00+00:00",
+            "waveDirection": {
+                "noaa": 196.69
+            },
+            "waveHeight": {
+                "noaa": 0.65
+            },
+            "windDirection": {
+                "noaa": 219.19
+            },
+            "windSpeed": {
+                "noaa": 4.43
+            }
+        }
+    ],
+    "meta": {
+        "cost": 1,
+        "dailyQuota": 50,
+        "end": "2020-08-14 17:25",
+        "lat": 58.7984,
+        "lng": 17.8081,
+        "params": [
+            "swellDirection",
+            "swellHeight",
+            "swellPeriod",
+            "waveDirection",
+            "waveHeight",
+            "windDirection",
+            "windSpeed"
+        ],
+        "requestCount": 6,
+        "source": [
+            "noaa"
+        ],
+        "start": "2020-08-14 00:00"
+    }
+}
